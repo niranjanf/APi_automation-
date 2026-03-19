@@ -55,7 +55,7 @@ public class UserTests {
 	logger.info("*********** user info is displayed***********");
 	
 	
-	System.out.println("test by EPPS niranjan");
+	System.out.println("EPPS infotech is the current company ");
 	}
 	
 	@Test(priority=3)
