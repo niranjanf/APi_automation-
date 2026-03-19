@@ -1,8 +1,15 @@
+/home/epps/git/api_automation/src/test/java/Serialisation_and_deserialisation/Seriaisation_payload.java
+/home/epps/git/api_automation/src/test/java/Serialisation_and_deserialisation/repsonsepayload_for_deserialisation.java
+/home/epps/git/api_automation/src/test/java/Serialisation_and_deserialisation/testClass.java
 /home/epps/git/api_automation/src/test/java/api/endpoints/Routes.java
 /home/epps/git/api_automation/src/test/java/api/endpoints/Userendpoints.java
 /home/epps/git/api_automation/src/test/java/api/payload/User.java
 /home/epps/git/api_automation/src/test/java/api/test/DDTests.java
 /home/epps/git/api_automation/src/test/java/api/test/UserTests.java
+/home/epps/git/api_automation/src/test/java/api/test/broken_link.java
+/home/epps/git/api_automation/src/test/java/api/test/testRequres.java
+/home/epps/git/api_automation/src/test/java/api/test/userPayload.java
 /home/epps/git/api_automation/src/test/java/api/utilities/DataProviders.java
 /home/epps/git/api_automation/src/test/java/api/utilities/ExtentReportManager.java
 /home/epps/git/api_automation/src/test/java/api/utilities/XLUtility.java
+/home/epps/git/api_automation/src/test/java/request.java

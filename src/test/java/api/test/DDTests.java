@@ -39,6 +39,9 @@ public class DDTests {
 		
 		 Response responce= Userendpoints.deleteUser(userName);
 			Assert.assertEquals(responce.getStatusCode(), 200);
+			
+			
+			System.out.println("build success by niranjan");
 	}
 	
 	

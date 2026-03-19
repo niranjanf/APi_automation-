@@ -53,6 +53,9 @@ public class UserTests {
 	responce.then().log().all();
 	Assert.assertEquals(responce.getStatusCode(), 200);
 	logger.info("*********** user info is displayed***********");
+	
+	
+	System.out.println("test by niranjan");
 	}
 	
 	@Test(priority=3)
