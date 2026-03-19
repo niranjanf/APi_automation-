@@ -9,6 +9,7 @@ import api.endpoints.Routes;
 import api.endpoints.Userendpoints;
 import api.payload.User;
 import api.utilities.DataProviders;
+import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
 public class DDTests {
